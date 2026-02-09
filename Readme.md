@@ -1,10 +1,11 @@
+# Introduction
 As a Data Visualisation Fellow at the The Center for Digital Scholarship, Regenstein Library, I teach a series of workshops on various data visualisation tools and techniques, using my favourite programming tool - R. 
 
 `ggmap` is an R package that makes it easy to create maps. It works seamlessly with `ggplot2`: Can be integrated with other R analyses. A detailed documentation available for this package is available on CRAN: https://cran.rproject.org/web/packages/ggmap/readme/README.html
 
-This workshop is the 2nd workshop of the [CDS Data Visualization Fellows Program][https://events.uchicago.edu/event/257015-introduction-to-ggmap-visualizing-spatial-data] – we will put on a workshop each quarter.
+This workshop is the 2nd workshop of the [CDS Data Visualization Fellows Program](https://events.uchicago.edu/event/257015-introduction-to-ggmap-visualizing-spatial-data) – we will put on a workshop each quarter.
 
-Read through the rest of the guide to familiarise yourself with [ggmap][https://cran.r-project.org/web/packages/ggmap/readme/README.html] and get started with spatial data visualisation in R.
+Read through the rest of the guide to familiarise yourself with [ggmap](https://cran.r-project.org/web/packages/ggmap/readme/README.html) and get started with spatial data visualisation in R.
 
 # Motivation and Historic Example
 The example we chose is the well-known Broad Street outbreak of cholera in London in 1854. Many historians, epidemiologists, and spatial data analysts will recognize the Broad Street pump map by the physician John Snow, a key player in the search for the cause of cholera in the 19th century.
