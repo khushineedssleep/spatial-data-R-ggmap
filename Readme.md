@@ -5,7 +5,7 @@ As a Data Visualisation Fellow at the The Center for Digital Scholarship, Regens
 
 This workshop is the 2nd workshop of the [CDS Data Visualization Fellows Program](https://events.uchicago.edu/event/257015-introduction-to-ggmap-visualizing-spatial-data) – we will put on a workshop each quarter.
 
-Read through the rest of the guide to familiarise yourself with [ggmap](https://cran.r-project.org/web/packages/ggmap/readme/README.html) and get started with spatial data visualisation in R.
+Read through the rest of the guide to familiarise yourself with [`ggmap`](https://cran.r-project.org/web/packages/ggmap/readme/README.html) and get started with spatial data visualisation in R.
 
 # Motivation and Historic Example
 The example we chose is the well-known Broad Street outbreak of cholera in London in 1854. Many historians, epidemiologists, and spatial data analysts will recognize the Broad Street pump map by the physician John Snow, a key player in the search for the cause of cholera in the 19th century.
@@ -38,11 +38,11 @@ install.packages("tidyverse")
 git@github.com:khushineedssleep/spatial-data-R-ggmap.git
 
 2. **Open the QMarkdown file:**
-ggpmap.qmd - Complete workshop code in a quarto markdown notebook
+`ggpmap.qmd` - Complete workshop code in a quarto markdown notebook
 
 3. **Use RStudio to open the project**
 Follow along with the presentation:
-See Khushi___ggmap.pdf to check the slide deck and more resources!
+See `Khushi___ggmap.pdf` to check the slide deck and more resources!
 
 ## Contributing
 This is a learning resource! If you:
